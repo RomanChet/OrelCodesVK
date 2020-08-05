@@ -3,6 +3,5 @@
     <string name="startButton">START!</string>
     <string name="todo">TODO</string>
     <string name="hello_i_ll_show_you_quot_odes_quot">Hello! I\'ll show you \" Сodes\"!</string>
-    <string name="todo">TODO</string>
     <integer name="com_vk_sdk_AppId">7557608</integer>
 </resources>
